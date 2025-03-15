@@ -1,6 +1,6 @@
 # ANALYSIS-ON-AUTOMOTIVE-DATA
 
-###📊 ANALYSIS ON AUTOMOTIVE DATA is a deep dive into the retail and performance aspects of the automotive sector. This project involves:
+### 📊 ANALYSIS ON AUTOMOTIVE DATA is a deep dive into the retail and performance aspects of the automotive sector. This project involves:
 
 Data Cleaning & Preprocessing: Handling missing values, outliers, and feature engineering.
 Exploratory Data Analysis (EDA): Identifying trends in sales, pricing, customer demographics, and vehicle specifications.
